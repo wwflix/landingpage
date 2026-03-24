@@ -1,18 +1,16 @@
-console.log("feu");
-
 const containerEl = document.querySelector(".container");
 
 const leftEl = document.querySelector(".left");
 
 const rightEl = document.querySelector(".right");
 
-// leftEl.addEventListener("mouseenter", ()=> {containerEl.classList.add("active-left")});
+leftEl.addEventListener("mouseenter", ()=> {containerEl.classList.add("active-left")});
 
-// leftEl.addEventListener("mouseleave", ()=>{containerEl.classList.remove("active-left")});
+leftEl.addEventListener("mouseleave", ()=>{containerEl.classList.remove("active-left")});
 
-// rightEl.addEventListener("mouseenter", ()=>{containerEl.classList.add("active-right")});
+rightEl.addEventListener("mouseenter", ()=>{containerEl.classList.add("active-right")});
 
-// rightEl.addEventListener("mouseleave", ()=>{containerEl.classList.remove("active-right")});
-d3.csv('youtubeVid_main.csv').then(data => {
-  console.log(data);
-});
+rightEl.addEventListener("mouseleave", ()=>{containerEl.classList.remove("active-right")});
+// d3.csv('youtubeVid_main.csv').then(data => {
+//   console.log(data);
+// });
