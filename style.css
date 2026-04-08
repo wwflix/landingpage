@@ -43,14 +43,14 @@ h1{
     position: absolute;
     left: 0;
     background-color: pink;
-    background-image: url("https://i1.best-price.ro/images/preturi/wb/4/5/3/4/9/3345349.webp");
+    background-image: url("https://www.walmart.com/ip/Fresh-Red-Delicious-Apple-Each/45912954");
     background-size: cover;
 }
 .split.right {
 position: absolute;
 right: 0;
 background-color: lightblue;
-background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkxvuisw1809iuKeEXYU1OWtBuJ6wFLX181A&s");
+background-image: url("https://www.britannica.com/list/5-mysteries-of-jupiter-that-juno-might-solve");
 background-size: cover;
 }
 .active-left .left{
