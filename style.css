@@ -43,14 +43,14 @@ h1{
     position: absolute;
     left: 0;
     background-color: pink;
-    background-image: url("https://www.walmart.com/ip/Fresh-Red-Delicious-Apple-Each/45912954");
+    background-image: url("https://www.space.com/11162-10-surprising-moon-facts-full-moons.html");
     background-size: cover;
 }
 .split.right {
 position: absolute;
 right: 0;
 background-color: lightblue;
-background-image: url("https://www.britannica.com/list/5-mysteries-of-jupiter-that-juno-might-solve");
+background-image: url("https://ro.wikipedia.org/wiki/Marte_%28planet%C4%83%29");
 background-size: cover;
 }
 .active-left .left{
